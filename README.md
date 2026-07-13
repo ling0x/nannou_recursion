@@ -7,3 +7,7 @@ Recursion is visualised through the **Koch Snowflake** fractal: starting from a
 plain equilateral triangle, every edge is recursively subdivided into four
 shorter segments that form an outward spike. Watch the fractal emerge live as
 the depth cycles from 0 → 6.
+
+## Example
+
+![Koch Snowflake fractal rendered by nannou_recursion](example.png)
